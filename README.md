@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with a strong preference for backend architecture.<br>I spend most of my time designing APIs with Spring Boot and Java, paired with modern frontends using React and Tailwind CSS.<br>Currently diving deep into microservices and Docker.
+Full-stack developer with a strong preference for backend architecture.<br>I spend most of my time designing APIs with Spring Boot and Java, paired with modern frontends using React and Tailwind CSS.<br>Currently diving deep into microservices.
 
 
 # 💻 Tech Stack:
